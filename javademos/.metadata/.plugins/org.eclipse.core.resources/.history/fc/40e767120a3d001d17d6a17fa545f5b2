@@ -1,0 +1,11 @@
+package datatypes;
+
+public class Main {
+
+	public static void main(String[] args) {
+		byte sayi =12;
+		sayi = 13111111111111;
+		
+	}
+
+}
